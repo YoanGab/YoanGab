@@ -8,8 +8,8 @@
 <h2>📌My GitHub repositories</h2>
 <div>
   <p>
-    <a href="https://github.com/YoanGab/paybyphone">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=paybyphone" alt="GitHub Stats" />
+    <a href="https://github.com/YoanGab/langchain_chainlit">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=langchain_chainlit" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/YoanGab/chatbot_and_recommendation_system">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=chatbot_and_recommendation_system" alt="GitHub Stats" />
