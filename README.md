@@ -29,5 +29,5 @@
 
 <h2>📫 How to reach me</h2>
 
-<a href="mailto:yoan.gabison@gmail.com]">![yoan.gabison@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:yoan@89p13.ai]">![yoan@89p13.ai](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/yoangabison/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
